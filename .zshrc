@@ -116,7 +116,6 @@ export GOBIN=$GOPATH/bin
 export PATH=$PATH:$GOPATH
 export PATH=$PATH:$GOROOT/bin
 
-
-
-
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+
+

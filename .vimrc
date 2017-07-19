@@ -108,6 +108,13 @@ Plug 'yggdroot/indentline'
 " elm-vim
 Plug 'ElmCast/elm-vim'
 
+" purescript-vim
+Plug 'raichoo/purescript-vim'
+
+
+" c++
+Plug 'octol/vim-cpp-enhanced-highlight'
+
 call plug#end()
 
 " Plugin Config
